@@ -1,0 +1,64 @@
+body {
+	background-color: #f4f4f4;
+}
+
+.nav {
+
+	background-color: #444;
+	padding: 10px;
+	padding-left: 130px;
+	border-bottom: 4px solid #FFC107;
+}
+.nav a, .nav #sitename {
+
+	color: #FFF;
+	font-size: 15px;
+	font-weight: 600;
+	display: inline;
+}
+.nav p {
+
+	display: inline;
+}
+
+
+/* painel de login */
+
+.login {
+
+	width: 600px;
+	margin: 0 auto;
+	background-color: #fff;
+	margin-top: 100px;
+	padding: 20px;
+	min-height: 400px;
+	padding-top: 10px;
+}
+.login .title-login {
+
+	border-bottom: 1px solid #ddd;
+	margin-bottom: 20px;
+	padding-bottom: 10px;
+}
+.login .title-login h1 {
+	color:#666;
+	font-size: 20px;
+
+}
+/* login input*/
+
+.login form input {
+
+	width: 100%;
+	padding: 15px;
+	padding-left: 20px;
+	margin-bottom: 10px;
+	border: 1px solid #ddd;
+
+
+
+}
+
+
+
+
